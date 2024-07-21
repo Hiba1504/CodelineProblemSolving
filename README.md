@@ -1,3 +1,4 @@
+## Submission Deadline: 21st July 2024
 ## Submission Instructions
 
 To submit your solution for all 4 problems, please follow these steps:
@@ -11,7 +12,7 @@ To submit your solution for all 4 problems, please follow these steps:
 - If you see the version, then git is successfully installed.
 
 ### Step 2: Fork the Repository
-- Navigate to [this repository](https://github.com/CodelineAtyab/CodelineProblemSolvingArea) provided by Codeline.
+- Navigate to [this repository](https://github.com/CodelineGitHub/CodelineProblemSolving/) provided by Codeline.
 - Click on the "Fork" button at the top-right corner of the page to create a copy of the repository under your own GitHub account.
 
 ### Step 3: Clone the Forked Repository
